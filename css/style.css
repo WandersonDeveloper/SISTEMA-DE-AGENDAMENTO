@@ -1,7 +1,13 @@
+/* documntação 
+autor Wanderson Felipe de Oliveira 
+30/09/2020
+abro totalmente o codigo para fins de estudo 
+corpo do site cor de fundo  */
+
 #body {
     background-color: #57A7B3;
 }
-
+/* carde login  */
 #card {
     background-color: #99CCCC;
     display: block;
@@ -14,20 +20,20 @@
 
 }
 
-
+/* btn lembreme */
 #lembre-me {
     margin-top:-6%;
     margin-left: 60%;
    font-size: 12px;
 }
-
+/* btn entrar */
 #btnentrar {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top:20px;
 }
-
+/* logo principal */
 #imglogo {
     
     margin-top: -125px;
@@ -35,39 +41,48 @@
     margin-left: auto;
     margin-right: auto;
 }
-
+/* texto direitos autorais  */
 #texcop {
 
     color: white;
+    position: relative;
 }
+/* incone Login   */
 #icologin{
     display: block;
     position: absolute;
     margin-top:-3.5rem;
     width: 4rem;
     height: 4rem;
-    margin-left: 84%;
+    margin-left:79%;
+    scale:auto;
+/* conf Inputi longin */
 }#inputEmail{
-    width:95%;
+    width:90%;
 }
+/* incone pass */
 #icopass{
     display: block;
     position: absolute;
     margin-top:-60px;
     width: 4rem;
     height: 4rem;
-    margin-left: 84%;
+    margin-left: 79%;
 }
+/* input pass */
 #inputPassword{
-    width:95%;
+    width:90%;
 }
 /* btn de informação */
 #btnsinf{
     margin-left: 75%;
     margin-top: 2%;
-   
+   /* btn suport */
 }#btnsuport{
     background-color: white;
-}#btnconf{
+
+}
+/* btn configuração */
+#btnconf{
     background-color: white;
 }
