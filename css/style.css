@@ -1,0 +1,73 @@
+#body {
+    background-color: #57A7B3;
+}
+
+#card {
+    background-color: #99CCCC;
+    display: block;
+    width: 80%;
+    height: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:80px;
+   padding-top: 3px;
+
+}
+
+
+#lembre-me {
+    margin-top:-6%;
+    margin-left: 60%;
+   font-size: 12px;
+}
+
+#btnentrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+}
+
+#imglogo {
+    
+    margin-top: -125px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texcop {
+
+    color: white;
+}
+#icologin{
+    display: block;
+    position: absolute;
+    margin-top:-3.5rem;
+    width: 4rem;
+    height: 4rem;
+    margin-left: 84%;
+}#inputEmail{
+    width:95%;
+}
+#icopass{
+    display: block;
+    position: absolute;
+    margin-top:-60px;
+    width: 4rem;
+    height: 4rem;
+    margin-left: 84%;
+}
+#inputPassword{
+    width:95%;
+}
+/* btn de informação */
+#btnsinf{
+    margin-left: 75%;
+    margin-top: 2%;
+   
+}#btnsuport{
+    background-color: white;
+}#btnconf{
+    background-color: white;
+}
