@@ -90,5 +90,27 @@ corpo do site cor de fundo  */
 /* pagina suporte  */
 #bodysuport{
     background-color:#57A7B3;
-    
+
+}#texttop{
+    padding-top:2%;
+    text-align: center;
+    font-size: 5vmax;
+    color: #57A7B3;
+}#box{
+    width: 100%;
+    height:150px;
+    background-color:white;
+}
+#btntreino{
+    height: 60px;
+
+    font-size: 12px;
+}#btnwhats{
+    height: 60px;
+  
+    font-size: 12px;
+}#btnchamado{
+    height: 60px;
+
+    font-size: 12px;
 }
