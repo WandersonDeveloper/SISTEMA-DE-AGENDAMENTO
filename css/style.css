@@ -76,20 +76,25 @@ corpo do site cor de fundo  */
 /* btn de informação */
 #btnsinf{
     margin-left: 75%;
-    margin-top: 2%;
-   /* btn suport */
+    margin-top: 5%;
+    
+   /*BTN CONFIGURAÇÃO COR BOTÃO SUPORTE */
 }#btnsuport{
-    background-color: white;
+background-color:white;
+margin: 1%;
 
+
+
+    
 }
-/* btn configuração */
-#btnconf{
-    background-color: white;
-}
+
+.navbar-nav{
+height:100px;
 
 /* pagina suporte  */
 #bodysuport{
     background-color:#57A7B3;
+   
 
 }#texttop{
     padding-top:2%;
@@ -114,4 +119,5 @@ corpo do site cor de fundo  */
 
     font-size: 12px;
 }
+
 
